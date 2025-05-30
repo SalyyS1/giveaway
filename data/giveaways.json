@@ -1,0 +1,298 @@
+[
+    {
+        "id": "1377854628309241916",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "1",
+        "phanthuong": "1",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748580141363,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": "1371113384258441298",
+        "yeucauinvites": 1,
+        "filephanthuong": null,
+        "thamgia": [],
+        "ketthuc": true
+    },
+    {
+        "id": "1377857036200710184",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "CHÀO BUỔI TỐI",
+        "phanthuong": "1 CON MÈO",
+        "sotrunggiai": 3,
+        "ketthucTimestamp": 1748577175639,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 0,
+        "filephanthuong": null,
+        "thamgia": [],
+        "ketthuc": true
+    },
+    {
+        "id": "1377858948551675926",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "1",
+        "phanthuong": "1",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748577631541,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 1,
+        "filephanthuong": null,
+        "thamgia": [],
+        "ketthuc": true
+    },
+    {
+        "id": "1377859757926256673",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "2",
+        "phanthuong": "2",
+        "sotrunggiai": 2,
+        "ketthucTimestamp": 1748577824530,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 1,
+        "filephanthuong": "1",
+        "thamgia": [],
+        "ketthuc": true
+    },
+    {
+        "id": "1377860170939633748",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "1",
+        "phanthuong": "1",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748577923165,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 1,
+        "filephanthuong": "idk",
+        "thamgia": [],
+        "ketthuc": true
+    },
+    {
+        "id": "1377861252407361620",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "a",
+        "phanthuong": "a",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748578180866,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 1,
+        "filephanthuong": "a",
+        "thamgia": [
+            "784728722459983874"
+        ],
+        "ketthuc": true
+    },
+    {
+        "id": "1377862066890739763",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "a",
+        "phanthuong": "a",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748578375170,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 1,
+        "filephanthuong": "11111",
+        "thamgia": [
+            "784728722459983874"
+        ],
+        "ketthuc": true
+    },
+    {
+        "id": "1377862246469996564",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "a",
+        "phanthuong": "a",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748578417896,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 1,
+        "filephanthuong": "111",
+        "thamgia": [
+            "784728722459983874"
+        ],
+        "ketthuc": true
+    },
+    {
+        "id": "1377865021232779264",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "aaaaaaaaaaaaa",
+        "phanthuong": "aaaaaaaaaaaaa",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748579079477,
+        "nguoitaoId": "784728722459983874",
+        "yeucauinvites": 1,
+        "filephanthuong": "1",
+        "thamgia": [
+            "784728722459983874"
+        ],
+        "ketthuc": true
+    },
+    {
+        "id": "1377866314873438228",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "1",
+        "phanthuong": "1",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748579387799,
+        "nguoitaoId": "784728722459983874",
+        "yeucauinvites": 1,
+        "filephanthuong": "1",
+        "thamgia": [],
+        "ketthuc": true
+    },
+    {
+        "id": "1377867641271746640",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "1",
+        "phanthuong": "1",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748579704157,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 1,
+        "filephanthuong": "abc",
+        "thamgia": [
+            "784728722459983874"
+        ],
+        "ketthuc": true
+    },
+    {
+        "id": "1377869066668085401",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "1",
+        "phanthuong": "1",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748580043937,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 1,
+        "filephanthuong": "123abc",
+        "thamgia": [
+            "784728722459983874"
+        ],
+        "ketthuc": true
+    },
+    {
+        "id": "1377869353256484906",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "1",
+        "phanthuong": "1",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748580112278,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 1,
+        "filephanthuong": "1",
+        "thamgia": [
+            "784728722459983874"
+        ],
+        "ketthuc": true
+    },
+    {
+        "id": "1377870363278442516",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "1",
+        "phanthuong": "1",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748580353121,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 1,
+        "filephanthuong": "hello sét",
+        "thamgia": [
+            "784728722459983874"
+        ],
+        "ketthuc": true
+    },
+    {
+        "id": "1377870749175386223",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "1",
+        "phanthuong": "1",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748580445099,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 1,
+        "filephanthuong": "1",
+        "thamgia": [
+            "784728722459983874"
+        ],
+        "ketthuc": true
+    },
+    {
+        "id": "1377871671343452291",
+        "channelId": "1370393088081657987",
+        "guildId": "1369749485911150694",
+        "chude": "Test Bot GiveAways để share free cho anh em",
+        "phanthuong": "Test Bot GiveAways để share free cho anh em",
+        "sotrunggiai": 5,
+        "ketthucTimestamp": 1748580904891,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 0,
+        "filephanthuong": "Ai là người đẹp trai nhất ? Tất nhiên là Salyyyy\n(Đây mọi người có thể gắn link để gửi cho người win)",
+        "thamgia": [
+            "784728722459983874",
+            "453457576173109249",
+            "1147729028426498148",
+            "916582768740286546",
+            "761443927902388245"
+        ],
+        "ketthuc": true
+    },
+    {
+        "id": "1377873125030760509",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "1",
+        "phanthuong": "1",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748581011214,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 0,
+        "filephanthuong": "1",
+        "thamgia": [
+            "784728722459983874"
+        ],
+        "ketthuc": true
+    },
+    {
+        "id": "1377873987924787200",
+        "channelId": "1371017755960148019",
+        "guildId": "1369749485911150694",
+        "chude": "Wifu",
+        "phanthuong": "Wifu",
+        "sotrunggiai": 1,
+        "ketthucTimestamp": 1748581187254,
+        "nguoitaoId": "784728722459983874",
+        "pingroleId": null,
+        "yeucauinvites": 1,
+        "filephanthuong": "Toi dep trai (link)",
+        "thamgia": [
+            "784728722459983874"
+        ],
+        "ketthuc": true
+    }
+]
